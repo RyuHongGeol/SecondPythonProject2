@@ -135,6 +135,7 @@ math_score[0] = 1000
 print(math_score)
 print(midterm_score[1][2])
 
+print(midterm_score)
 
 
 
